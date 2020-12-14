@@ -1,5 +1,5 @@
 /*
- * DAY 3
+ * DAY 3 (I)
  * 
  * You make a map (your puzzle input) of the open squares (.) and trees (#) you can see.
  * The same pattern repeats to the right many times.
@@ -361,6 +361,8 @@ console.log(tobogganTrees(3, 1));
 
 
 /*
+ * DAY 3 (II)
+ * 
  * Determine the number of trees you would encounter if, for each of the following
  * slopes, you start at the top-left corner and traverse the map all the way to the
  * bottom:
